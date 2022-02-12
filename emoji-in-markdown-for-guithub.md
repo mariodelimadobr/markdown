@@ -1,4 +1,4 @@
-## GitHub Markdown Emoji
+## Emoji ind Markdown for GitHub
 
 People
 
